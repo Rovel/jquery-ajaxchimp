@@ -65,5 +65,14 @@
             4: 'La partie nom d\'utilisateur de l\'adresse email n\'est pas valide (la partie avant le signe @:)',
             5: 'Cette adresse e-mail semble faux ou non valides. S\'il vous plaît entrer une adresse email valide'
         }
+        'pt': {
+            'cadastre': 'enviando...',
+            0: 'E-mail de confirmação enviado',
+            1: 'Insira um email',
+            2: 'O edereço de email deve conter apenas uma @',
+            3: 'Domínio inválido, verifique a parte depois do @',
+            4: 'Usuário inválido, verifique a parte antes do @',
+            5: 'Endereço inválido, verifique o endereço'
+        }
     };
 })(jQuery);
