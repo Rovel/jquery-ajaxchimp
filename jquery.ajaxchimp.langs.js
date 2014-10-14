@@ -72,7 +72,7 @@
             2: 'O edereço de email deve conter apenas uma @',
             3: 'Domínio inválido, verifique a parte depois do @',
             4: 'Usuário inválido, verifique a parte antes do @',
-            5: 'Endereço inválido, verifique o endereço'
+            5: 'Endereço inválido, verifique novamente'
         }
     };
 })(jQuery);
