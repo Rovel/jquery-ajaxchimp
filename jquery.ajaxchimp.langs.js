@@ -64,7 +64,7 @@
             3: 'La partie domaine de l\'adresse e-mail n\'est pas valide (la partie après le @:)',
             4: 'La partie nom d\'utilisateur de l\'adresse email n\'est pas valide (la partie avant le signe @:)',
             5: 'Cette adresse e-mail semble faux ou non valides. S\'il vous plaît entrer une adresse email valide'
-        }
+        },
         'pt': {
             'cadastre': 'enviando...',
             0: 'E-mail de confirmação enviado',
