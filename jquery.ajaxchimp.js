@@ -53,7 +53,7 @@ For e.g. 'http://blahblah.us1.list-manage.com/subscribe/post-json?u=5afsdhfuhdsi
 
             var settings = $.extend({
                 'url': form.attr('action'),
-                'language': 'en'
+                'language': 'pt'
             }, options);
 
             var url = settings.url.replace('/post?', '/post-json?').concat('&c=?');
